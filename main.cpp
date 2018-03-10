@@ -11,7 +11,7 @@ void display(void)
     glVertex3f(-0.7f,-0.7f,0.0f);
     glEnd();
     glFlush ();
-
+//editado
 }
 void init (void)
 {
